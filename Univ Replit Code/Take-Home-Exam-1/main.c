@@ -40,7 +40,7 @@ int main()
     printf("\n");
 	}
 
-  printf("20201725 김나희\n");
+  printf("Enntropyy\n");
 
 	return 0; 
 }
