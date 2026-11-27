@@ -37,7 +37,7 @@ int main(void){
   }
   printf("\n");
   
-  printf("20201725 김나희");
+  printf("Enntropyy");
 
   return 0;
 }
